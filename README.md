@@ -33,8 +33,8 @@
 ✨ where you can find me ✨
   
   <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/erika-lopes/">
-    <img src="https://img.shields.io/badge/linkedin-erika--lopes-blue">
+   <a href="https://www.facebook.com/htetpaing.kyaw.16121">
+    <img src="https://img.shields.io/badge/facebook-htetpaingkyaw-blue">
   </a>
   
   <a href="https://www.instagram.com/htetpaingkyaw01/">
