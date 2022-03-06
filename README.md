@@ -51,9 +51,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=munific&show_icons=true&hide_border=true)
 
-# 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
-I have achieved:
-- Write a tokenizer for [Sadie-lang](https://github.com/sadie-lang/Sadie)
 
 ## Show ❤️ By Starring My Repos!
 
