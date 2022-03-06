@@ -49,7 +49,7 @@
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HtetPaingKyaw01&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HtetPaingKyaw01&show_icons=true&theme=tokyonight)
 
 
 ## Show ❤️ By Starring My Repos!
