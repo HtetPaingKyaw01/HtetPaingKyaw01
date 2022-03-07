@@ -1,7 +1,7 @@
 # Hello, I'm HtetPaingKyaw!
 
 - 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 𝗵𝗶𝗴𝗵 𝘀𝗰𝗵𝗼𝗼𝗹
-- 𝗜 ❤️ 𝗟𝗼𝘄 High 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
+- 𝗜 ❤️ 𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">
 
